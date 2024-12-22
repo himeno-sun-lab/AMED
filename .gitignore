@@ -1,0 +1,9 @@
+# git config advice.addIgnoredFile false
+
+.DS_Store
+public/
+resources/
+!.gitmodules
+!.gitignore
+.hugo_build.lock
+!.github/
