@@ -1,5 +1,6 @@
 ---
 title: Team Lineup
+showAuthor: false
 showDate: false
 showTableOfContents: false
 showWordCount: false
