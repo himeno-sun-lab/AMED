@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "NeuroAsSim"
+title = "Digital Brain Function Modeling"
 contentDir = 'content/en'
 
 [params]
@@ -14,15 +14,15 @@ contentDir = 'content/en'
   # description = "My awesome website"
   copyright = '&copy; { year } Himeno-Sun Lab'
 
-# [params.author]
-#   name = "Your name here"
-#   email = "youremail@example.com"
-#   image = "img/blowfish_logo.png"
-#   imageQuality = 96
+[params.author]
+  name = "NeuroAsSim"
+#   email = "himeno.sun@juntendo.ac.jp"
+  image = "AMED-A.png"
+  imageQuality = 96
 #   headline = "I'm only human"
-#   bio = "A little bit about you"
-#   links = [
-#     { email = "mailto:hello@your_domain.com" },
+  bio = "Site Administrator"
+  links = [
+    { email = "mailto:himeno.sun@juntendo.ac.jp" }
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
@@ -70,4 +70,4 @@ contentDir = 'content/en'
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
-#   ]
+  ]

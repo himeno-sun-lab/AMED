@@ -1,8 +1,8 @@
 ---
-title: NeuroAsSim
+title: Digital Brain Function Modeling
 
 ---
-***Functionalize Brain Simulation Network and Deep Learning Model by High-Dimensional Neural Data (NeuroAsSim)***
+***Functionalize Brain Simulation Network and Deep Learning Model by High-Dimensional Neural Data***
 
 ## About
 Although the simulation of the biological brain now can fit the unconscious activity for billions of neurons, it is limited by lacking behavioral functions. 
