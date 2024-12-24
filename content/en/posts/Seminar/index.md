@@ -2,7 +2,7 @@
 title: A seminar on data processing and utilising held in RIKEN Wako Campus 
 date: 2024-11-21
 
-summary: Dr. Sun and Dr. Tokuda, along with other researchers from, hosted a workshop with Dr. GU in RIKEN Center for Brain Science on the Wako campus.
+summary: Dr. Sun and Dr. Tokuda, along with other researchers from Juntendo Univ., hosted a workshop with Dr. GU in RIKEN Center for Brain Science on the Wako campus.
 
 tags: ['Seminars']
 
