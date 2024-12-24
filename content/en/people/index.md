@@ -8,12 +8,12 @@ showReadingTime: false
 showBreadcrumbs: false
 ---
 ## Principal Investigator
-- **Zhe SUN** <kbd>[Juntendo Univ.](https://himeno-sun-lab.github.io)</kbd>
+- **Zhe SUN** <kbd>[Juntendo Univ.](https://himeno-sun-lab.github.io/)</kbd>
 
 ## Research Scientists
-- **Ryutaro HIMENO** <kbd>[Juntendo Univ.](https://himeno-sun-lab.github.io)</kbd>
+- **Ryutaro HIMENO** <kbd>[Juntendo Univ.](https://himeno-sun-lab.github.io/)</kbd>
 - [Keita TOKUDA](https://sites.google.com/view/tokudakeita/) <kbd>Juntendo Univ.</kbd>
-- **Chao LI** <kbd>[RIKEN AIP](https://qibinzhao.github.io/)</kbd>
+- [[Chao LI]](https://chaoliatriken.github.io/) <kbd>[RIKEN AIP](https://qibinzhao.github.io/)</kbd>
 - **Joshua JOHANSEN** <kbd>[RIKEN CBS](https://jlab.brain.riken.jp/)</kbd>
 - **Xiaowei GU** <kbd>[RIKEN CBS](https://jlab.brain.riken.jp/)</kbd>
 
