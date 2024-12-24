@@ -13,7 +13,7 @@ showBreadcrumbs: false
 ## Research Scientists
 - **Ryutaro HIMENO** <kbd>[Juntendo Univ.](https://himeno-sun-lab.github.io/)</kbd>
 - [Keita TOKUDA](https://sites.google.com/view/tokudakeita/) <kbd>Juntendo Univ.</kbd>
-- [[Chao LI]](https://chaoliatriken.github.io/) <kbd>[RIKEN AIP](https://qibinzhao.github.io/)</kbd>
+- [Chao LI](https://chaoliatriken.github.io/) <kbd>[RIKEN AIP](https://qibinzhao.github.io/)</kbd>
 - **Joshua JOHANSEN** <kbd>[RIKEN CBS](https://jlab.brain.riken.jp/)</kbd>
 - **Xiaowei GU** <kbd>[RIKEN CBS](https://jlab.brain.riken.jp/)</kbd>
 
